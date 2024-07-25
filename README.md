@@ -24,7 +24,7 @@ Welcome to the **Hotel Management System**, a comprehensive application develope
 - **WAMP Server:** Wampp server needs to be installed in your system.
 - **mysql-connector-j-9.0.0.jar:** This file is located in project root directory, import it as reference jar file to connect mySQL.
 - **rs2xml.jar:** This file is also located in project root directory, import it as reference jar file to resolve the package ***import net.proteanit.sql.DbUtils;***
-- **mySQL workbench:** It is needed to view or modigy the databse running over the ***port:3306***
+- **mySQL workbench:** It is needed to view or modify the databse running over the ***port:3306***
 
 ### Note:
 **By default username is admin and password is root, you can further change the username and password by updating the entry:**
